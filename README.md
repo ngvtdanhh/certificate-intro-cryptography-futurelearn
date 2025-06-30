@@ -89,6 +89,8 @@ I recommend this course to:
 
 ## ✍️ Author
 
-**Thành Danh** – Pentester & Cybersecurity Student  
-GitHub: [@ngvuthdanh](https://github.com/ngvuthdanh)  
+**Thành Danh** – Pentester & Cybersecurity Research  
+
+GitHub: [@ngvtdanhh](https://github.com/ngvtdanhh)  
+
 Email: ngvu.thdanh@gmail.com
