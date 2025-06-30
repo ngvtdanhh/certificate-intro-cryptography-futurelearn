@@ -94,3 +94,12 @@ I recommend this course to:
 GitHub: [@ngvtdanhh](https://github.com/ngvtdanhh)  
 
 Email: ngvu.thdanh@gmail.com
+
+---
+
+## 📄 License
+
+This project is licensed under the terms of the **GNU AGPL v3.0**.  
+See [`LICENSE`](./LICENSE) for full details.
+
+© 2025 ngvtdanhh. All rights reserved.
