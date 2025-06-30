@@ -6,7 +6,7 @@ This repository documents what I learned from the **An Introduction to Cryptogra
 
 ## 📜 Certificate
 
-- 🧠 [An Introduction to Cryptography – FutureLearn Certificate](./cert/an-intro-to-cryptography_certificate_of_achievement_fifimkb.pdf)
+- 🧠 [An Introduction to Cryptography – FutureLearn Certificate](./cert/an-intro-to-cryptography-futurelearn.pdf)
 
 ---
 
