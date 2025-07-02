@@ -1,5 +1,11 @@
 # 🔐 An Introduction to Cryptography – FutureLearn
 
+![Course](https://img.shields.io/badge/FutureLearn-Certified-brightgreen?style=flat-square&logo=academia)
+![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square&logo=verizon)
+![Focus](https://img.shields.io/badge/Focus-Cryptography-purple?style=flat-square&logo=openssl)
+![Level](https://img.shields.io/badge/Level-Beginner--Friendly-orange?style=flat-square&logo=readthedocs)
+![Author](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square&logo=github)
+
 This repository documents what I learned from the **An Introduction to Cryptography** course by the **University of Leeds**, in collaboration with **Click Start** and the **Institute of Coding**, hosted on **FutureLearn**.
 
 ---
